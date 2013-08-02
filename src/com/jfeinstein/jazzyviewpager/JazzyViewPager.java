@@ -1,8 +1,5 @@
 package com.jfeinstein.jazzyviewpager;
 
-import java.util.HashMap;
-import java.util.LinkedHashMap;
-
 import android.annotation.TargetApi;
 import android.content.Context;
 import android.content.res.TypedArray;
@@ -18,6 +15,9 @@ import android.view.MotionEvent;
 import android.view.View;
 
 import com.nineoldandroids.view.ViewHelper;
+
+import java.util.HashMap;
+import java.util.LinkedHashMap;
 
 public class JazzyViewPager extends ViewPager {
 
